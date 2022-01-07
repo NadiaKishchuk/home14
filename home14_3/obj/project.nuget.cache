@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DvWXadVqCujE2+qEPo/7Lwchohagwd6zUKczbKgVDntMrMsJiku5Z5QUhnCgwJY3AzZURxz8bc/K2LcJyLIzbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Надія\\Desktop\\Sigma c#\\projects\\home14_3\\home14_3\\home14_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Надія\\.nuget\\packages\\microsoft.data.sqlite\\6.0.1\\microsoft.data.sqlite.6.0.1.nupkg.sha512",
+    "C:\\Users\\Надія\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.1\\microsoft.data.sqlite.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\Надія\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Надія\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\Надія\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Надія\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Надія\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
